@@ -9,7 +9,7 @@ body {
 	background: linear-gradient(to right, #000000 , #781420); /* Standard syntax */
 }
 
-h1 {
+h1, h2 {
     font: 600 3.5em 'Raleway', sans-serif;
     color: rgba(238, 237, 237, 0.856);
     text-align: center;
@@ -20,12 +20,21 @@ h1 {
 }
 
 h3 {
+  text-size-adjust: 100%;
 	font: 900 1em 'Raleway', sans-serif;
     color: rgba(238, 237, 237, 0.856);
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
 
+}
+
+li {
+  list-style-type: none;
+}
+
+.specialAbout {
+  letter-spacing: 0.05em;
 }
 
 .btn{
