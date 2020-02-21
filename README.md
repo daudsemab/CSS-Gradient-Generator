@@ -6,3 +6,5 @@ It will generate CSS for appropriate colors currently descried on screen.
 
 Fork this repository.
 Hit star.
+
+Whoever fork this repository and add any feature to this, can add his\her name and profile to the Contributor list of this project. I am very thankful to him\her to make it better.
